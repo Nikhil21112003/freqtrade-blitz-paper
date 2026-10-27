@@ -1,0 +1,6 @@
+﻿DEPLOYMENT PREPARED
+Folder: C:\ft_userdata\blitz-deploy
+Config: copied; dry_run=true verified
+Strategy: sample_strategy.py copied
+Original project: unchanged
+IMPORTANT: Private repo only. Review config for credentials before uploading.

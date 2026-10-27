@@ -1,0 +1,6 @@
+.git
+.env
+*.log
+user_data/logs/
+user_data/tradesv3*
+user_data/backtest_results/
