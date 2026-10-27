@@ -83,8 +83,8 @@
                        "listen_port":  8080,
                        "verbosity":  "error",
                        "enable_openapi":  false,
-                       "jwt_secret_key":  "863727cc8b44dc976b79a8a780799853b74aca17634a5fa28996232aca91cfc2",
-                       "ws_token":  "XwTBiZhQyrGXXK_Pw_9GXHNUsSJt42WJ-Q",
+                       "jwt_secret_key":  "78f2b6550b4f27625fc3ba39ecb419eab7531c054c3d365dbb78725416bfff87",
+                       "ws_token":  "BsIJZBMpC4w90Ux1Tf2aQHfvMglPyCICVHG1f1QH7V4",
                        "CORS_origins":  [
 
                                         ],

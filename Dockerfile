@@ -1,4 +1,6 @@
-FROM freqtradeorg/freqtrade:stable
+﻿FROM freqtradeorg/freqtrade:stable
 COPY user_data /freqtrade/user_data
 WORKDIR /freqtrade
-CMD ["trade", "--config", "/freqtrade/user_data/config.json", "--strategy", "sample_strategy"]
+CMD ["trade", "--config", "/freqtrade/user_data/config.json", "--strategy", "SampleStrategy"]
+
+
