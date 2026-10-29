@@ -96,6 +96,5 @@
     "force_entry_enable":  false,
     "internals":  {
                       "process_throttle_secs":  5
-                  },
-    "db_url":  "sqlite:////freqtrade/persistent/tradesv3.dryrun.sqlite"
+                  }
 }
